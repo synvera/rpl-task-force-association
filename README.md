@@ -31,23 +31,10 @@ This repository serves as a centralized hub for all Software Engineering (Rekaya
 ## 📁 Repository Structure
 
 ```
-rpl-assignments/
-├── assignment-1/          # First assignment
-│   ├── src/              # Source code
-│   ├── docs/             # Documentation
-│   └── README.md         # Assignment details
-├── assignment-2/          # Second assignment
-│   ├── src/
-│   ├── docs/
-│   └── README.md
-├── assignment-3/          # Third assignment
-│   ├── src/
-│   ├── docs/
-│   └── README.md
-├── docs/                  # General documentation
-│   ├── guidelines.md
-│   └── references.md
-└── README.md             # This file
+rpl-task-force-association/
+├── pertemuan_0.html          
+│   ├── Logo Muhtiga.png
+
 ```
 
 ---
