@@ -33,7 +33,7 @@ This repository serves as a centralized hub for all Software Engineering (Rekaya
 ```
 rpl-task-force-association/
 ├── pertemuan_0.html          
-│   ├── Logo Muhtiga.png
+├── Logo Muhtiga.png
 
 ```
 
