@@ -41,30 +41,12 @@ rpl-task-force-association/
 
 ## 📝 Assignments
 
-### Assignment 1: [Title Here]
+### Assignment 1: [Pertemuan_0.html]
 **Status:** ✅ Completed | **Grade:** -
 
 Brief description of what this assignment covers, including main objectives and key concepts.
 
-[View Details →](./assignment-1/)
-
----
-
-### Assignment 2: [Title Here]
-**Status:** 🔄 In Progress | **Grade:** -
-
-Brief description of what this assignment covers, including main objectives and key concepts.
-
-[View Details →](./assignment-2/)
-
----
-
-### Assignment 3: [Title Here]
-**Status:** ⏳ Pending | **Grade:** -
-
-Brief description of what this assignment covers, including main objectives and key concepts.
-
-[View Details →](./assignment-3/)
+[View Details →](./pertemuan_0.html/)
 
 ---
 
@@ -74,46 +56,14 @@ Brief description of what this assignment covers, including main objectives and 
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | Java, Python, JavaScript |
-| **Frameworks** | Spring Boot, React, Django |
-| **Tools** | Git, Maven, npm |
-| **Design** | UML, ERD, Flowcharts |
-| **Documentation** | Markdown, Javadoc |
+| **Languages** | PHP |
+| **Tools** | VSCode |
 
 </div>
 
 ---
 
 ## 🚀 Getting Started
-
-### Prerequisites
-
-Before you begin, ensure you have the following installed:
-
-```bash
-- Git
-- JDK 11 or higher
-- Python 3.8+
-- Node.js & npm
-```
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/rpl-assignments.git
-   cd rpl-assignments
-   ```
-
-2. **Navigate to specific assignment**
-   ```bash
-   cd assignment-1
-   ```
-
-3. **Follow assignment-specific README**
-   Each assignment folder contains its own README with detailed instructions.
-
----
 
 ## 📖 Documentation
 
@@ -144,8 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Your Name**
 
 - GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- Email: synveragroup@gmail.com
 
 ---
 
