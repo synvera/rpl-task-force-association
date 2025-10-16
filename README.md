@@ -65,14 +65,6 @@ Brief description of what this assignment covers, including main objectives and 
 
 ---
 
-## 🚀 Getting Started
-
-## 📖 Documentation
-
-Detailed documentation for each assignment can be found in their respective folders. General course materials and references are available in the [`docs/`](./docs/) directory.
-
----
-
 ## 👤 Author
 
 **Mochammad Khahfi**
