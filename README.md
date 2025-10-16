@@ -75,7 +75,7 @@ Detailed documentation for each assignment can be found in their respective fold
 
 **Mochammad Khahfi**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yourusername](https://github.com/synvera)
 - Email: synveragroup@gmail.com
 
 ---
