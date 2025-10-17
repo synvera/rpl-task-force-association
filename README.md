@@ -86,6 +86,4 @@ Brief description of what this assignment covers, including main objectives and 
 
 **⭐ Star this repository if you find it helpful!**
 
-Made with ❤️ for Software Engineering Course
-
 </div>
